@@ -7,3 +7,8 @@
   ```sh
     ./app
   ```
+
+  - access the server from
+    ```
+    localhost:8080
+    ```
